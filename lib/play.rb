@@ -36,8 +36,9 @@ def turn(board)
 end
 
 # Define your play method below
-count = 1
+
 def play(board)
+  
   until count == 9
   turn(board)
   count += 1
