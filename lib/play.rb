@@ -42,4 +42,5 @@ def play(board)
   turn
   count += 1
 end
+end
 
